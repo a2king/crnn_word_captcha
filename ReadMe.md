@@ -10,6 +10,7 @@ torch         1.6.0
 torchvision   0.7.0
 ## 测试模型
 提供一个简单测试的模型用于代码调试（<a href="https://pan.baidu.com/s/1SUr86_dyC3EDmGKMOPi_bw">百度云</a>模型【提取码：4086】）
+加群分享测试接口用于测试完整模型（训练集82w张图片，测试集2w张图片，识别率97%的测试接口）
 ```python
 # 测试出现---------------------- => 表示代码流程和环境没有问题
 python demo.py -m /expr/netCRNN_10_1.pth -i demo/1c16c4acb9f539222dcf0fc029b733a5.jpg
