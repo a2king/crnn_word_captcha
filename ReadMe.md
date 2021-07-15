@@ -48,5 +48,3 @@ nepoch = 1000 # 数据集最大循环训练次数
 ```
 ## 项目参考
 crnn-pytorch： https://github.com/Holmeyoung/crnn-pytorch
-## 项目讨论
-![数据展示](demo/image/数据矿工交流会群聊二维码.png)
