@@ -3,7 +3,6 @@
 # Created on 2020/10/11 0:17
 # Project: 
 # @Author: CYG
-# @Email : siqi@yscredit.com
 import argparse
 import os
 import sys
